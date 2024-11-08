@@ -148,7 +148,7 @@ header {
             bottom: 50px;
             /* border-radius: 20px; */
             /* but what happen in the background are after it shrinks we will return it back to the normal size so it can show the animation  */
-            animation: showImage 1s linear 1 forwards;
+            animation: showImage 0.5s linear 1 forwards;
           }
         }
       }
